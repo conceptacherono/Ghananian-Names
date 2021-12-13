@@ -1,0 +1,24 @@
+h1 {
+    margin-bottom: 0px;
+    margin-top: 10px;
+  }
+  h2{
+    font-weight: bold;
+    color:black;
+  }
+  .form{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+  
+    h1{
+      font-size: 30px;
+    }
+    h2{
+      font-size:22px;
+    }
+   
+  .page-footer{
+   background-color: rosybrown; 
+   width: 100%;
+ }
