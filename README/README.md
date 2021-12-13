@@ -1,15 +1,15 @@
 README.md
  ## Project name
 Ghananian Names
-This project is about me and life starting up in the programming world.lt is also about studying in Moringa school.
+This website takes a user's birthday and calculates the week of the day they were born and depending on their gender output their Akan name is generated.
 
 Technologies Used
 Technologies I have used in the project are HTML, CSS & Javascript 
 Setup Instructions and Installation
 To run the application in your terminal:
 
-Clone or download the repository.https://github.com/conceptacherono/Independent-portfolio.git
-Open terminal command line then navigate to the root folder of the application. "cd Independent-portfolio.git"
+Clone or download the repository.https://conceptacherono.github.io/Ghananian-Names/
+Open terminal command line then navigate to the root folder of the application. "cd Ghananian Names.git"
 Open "index.html" on your browser.
 Development
 Want to contribute? Great!
