@@ -9,8 +9,8 @@ Technologies I have used in the project are HTML, CSS & Javascript
 Setup Instructions and Installation
 To run the application in your terminal:
 
-Clone or download the repository.https://github.com/conceptacherono/Independent-portfolio.git
-Open terminal command line then navigate to the root folder of the application. "cd Independent-portfolio.git"
+Clone or download the repository.https://conceptacherono.github.io/Ghananian-Names/
+Open terminal command line then navigate to the root folder of the application. "cd Ghananian Namss.git"
 Open "index.html" on your browser.
 Development
 Want to contribute? Great!
