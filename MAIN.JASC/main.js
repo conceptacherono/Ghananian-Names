@@ -4,7 +4,7 @@ var dayNames = ["Sunday","Monday","Tuesday","Wednesday", "Thursday", "Friday","S
 function validate() {
   var genders = document.getElementsByName("gender");
   if( document.myForm.year.value == "" || document.myForm.year.value.length !=4 || document.myForm.year.value >2100 || document.myForm.year.value <=1900) {
-     alert( "Provide a year of birth! eg 2020" );
+     alert( "Provide correct year of birth! eg 2020" );
      document.myForm.year.focus() ;
      return false;
   }
@@ -16,7 +16,7 @@ function validate() {
   }
   else if( document.myForm.date.value == "" || isNaN( document.myForm.month.value ) || 
   document.myForm.month.value.length != 2|| document.myForm.date.value > 31 || document.myForm.date.value <= 0) {
-     alert( "Provide the correct date you were born" );
+     alert( "Provide the correct date" );
      document.myForm.day.focus() ;
      return false;
   }
