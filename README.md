@@ -2,12 +2,6 @@
 <<<<<<< HEAD
 This website takes a user's birthday and calculates the week of the day they were born and depending on their gender output their Akan name is generated.
 README.md
-=======
-README.md
- ## Project name
-Ghananian Names
-This project is about me and life starting up in the programming world.lt is also about studying in Moringa school.
->>>>>>> 77bf0cd1027d8a34528e43c369d9750cb18f2191
 
 Technologies Used
 Technologies I have used in the project are HTML, CSS & Javascript 
@@ -18,8 +12,7 @@ Clone or download the repository.https://conceptacherono.github.io/Ghananian-Nam
 <<<<<<< HEAD
 Open terminal command line then navigate to the root folder of the application. "cd Ghananian Names.git"
 =======
-Open terminal command line then navigate to the root folder of the application. "cd Ghananian Namss.git"
->>>>>>> 77bf0cd1027d8a34528e43c369d9750cb18f2191
+
 Open "index.html" on your browser.
 Development
 Want to contribute? Great!
